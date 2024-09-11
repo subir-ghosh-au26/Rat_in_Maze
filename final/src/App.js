@@ -69,7 +69,7 @@ export default function App() {
   return (
     <div className="main">
       <header>
-        <h1>Rat in a Maze - Visualization</h1>
+        <h1>Rat in a Maze</h1>
         <p>Click the boxes to add barriers</p>
       </header>
       <InputForm
